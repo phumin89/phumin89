@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/spotify-placeholder.svg" alt="Spotify section placeholder" width="100%" />
+  <img src="./assets/spotify.svg" alt="Spotify Playing" width="100%" />
 </p>
