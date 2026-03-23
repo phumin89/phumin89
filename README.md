@@ -10,12 +10,12 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317a7ngp3b6xrntppr7u24soa3dq&redirect=true">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=317a7ngp3b6xrntppr7u24soa3dq&cover_image=true&theme=spotify-embed&show_offline=false&mode=dark"
       alt="Spotify Playing"
-      width="25%"
+      width="38%"
     />
   </a>
 </p>
