@@ -1,9 +1,4 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081c15,32:0b132b,70:124559,100:f59e0b&text=mi.nie&fontColor=f8fafc&fontSize=44&animation=fadeIn&fontAlignY=38&desc=%40phumin89%20%7C%20shipping%20finance%20flows%20and%20render%20pipelines&descAlignY=58&descSize=16"
-    alt="Header"
-  />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081c15,32:0b132b,70:124559,100:f59e0b&text=mi.nie&fontColor=f8fafc&fontSize=42&animation=fadeIn&fontAlignY=38&desc=%40phumin89%20%7C%20shipping%20finance%20flows%20and%20render%20pipelines&descAlignY=58&descSize=15)
 
 <div align="center">
 
@@ -14,9 +9,13 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="56%" valign="top">
+## mi.nie
+
+I build software for workflows that need clarity, speed, and fewer manual steps.
+
+Most of my work lives between product-focused web systems, backend structure that can grow cleanly, and automation that removes repetitive operational work.
+
+> I prefer systems that are understandable on a bad day, not just impressive on a good day.
 
 ```ts
 const profile = {
@@ -37,62 +36,17 @@ const profile = {
 }
 ```
 
-I build software for workflows that need clarity, speed, and fewer manual steps.
-Most of my work lives between product-focused web systems, backend structure that can grow cleanly, and automation that removes repetitive operational work.
-
-> I prefer systems that are understandable on a bad day, not just impressive on a good day.
-
-    </td>
-    <td width="44%" valign="top">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=phumin89&show_icons=true&hide_border=true&title_color=f8fafc&icon_color=f59e0b&text_color=d8f3dc&bg_color=081c15"
-  alt="GitHub stats"
-/>
-
-    </td>
-  </tr>
-</table>
-
 ## Featured Builds
 
-<div align="center">
-  <a href="https://github.com/phumin89/PocketLedger">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=PocketLedger&hide_border=true&title_color=f8fafc&text_color=d8f3dc&icon_color=f59e0b&bg_color=0b132b"
-      alt="PocketLedger"
-    />
-  </a>
-  <a href="https://github.com/phumin89/Render3d-tools">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=Render3d-tools&hide_border=true&title_color=f8fafc&text_color=d8f3dc&icon_color=f59e0b&bg_color=0b132b"
-      alt="Render3d-tools"
-    />
-  </a>
-</div>
+[![PocketLedger](https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=PocketLedger&hide_border=true&title_color=f8fafc&text_color=d8f3dc&icon_color=f59e0b&bg_color=0b132b)](https://github.com/phumin89/PocketLedger)
+[![Render3d-tools](https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=Render3d-tools&hide_border=true&title_color=f8fafc&text_color=d8f3dc&icon_color=f59e0b&bg_color=0b132b)](https://github.com/phumin89/Render3d-tools)
 
-### PocketLedger
-CQRS-ready personal finance monorepo built with React, Fastify, Prisma, and PostgreSQL.
-
-- Dashboard-oriented frontend with a clear workspace split
-- Shared contracts across frontend, backend, and application layers
-- Structured for future reporting, projections, and richer transaction flows
-
-### Render3d-tools
-XML-driven console automation for generating 3D render jobs and downloading final assets.
-
-- Builds valid option combinations from XML configuration trees
-- Supports PNG and transparency workflows
-- Turns repetitive rendering steps into a predictable pipeline
+- `PocketLedger`: CQRS-ready personal finance monorepo with React, Fastify, Prisma, and PostgreSQL
+- `Render3d-tools`: XML-driven automation for generating 3D render jobs and downloading final assets
 
 ## Toolbox
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,fastify,postgres,prisma,docker,cs,dotnet,python,git&perline=6"
-    alt="Tech stack"
-  />
-</div>
+![Tech stack](https://skillicons.dev/icons?i=ts,react,vite,nodejs,fastify,postgres,prisma,docker,cs,dotnet,python,git&perline=6)
 
 ## Current Direction
 
@@ -112,18 +66,9 @@ Tooling         .NET, Python, XML-driven automation
 
 ## GitHub Snapshot
 
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=phumin89&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=d8f3dc&currStreakNum=f8fafc&dates=95d5b2&sideNums=f8fafc&background=081c15"
-    alt="GitHub streak"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumin89&layout=compact&hide_border=true&title_color=f8fafc&text_color=d8f3dc&bg_color=081c15"
-    alt="Top languages"
-  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phumin89&show_icons=true&hide_border=true&title_color=f8fafc&icon_color=f59e0b&text_color=d8f3dc&bg_color=081c15)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phumin89&layout=compact&hide_border=true&title_color=f8fafc&text_color=d8f3dc&bg_color=081c15)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=phumin89&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=d8f3dc&currStreakNum=f8fafc&dates=95d5b2&sideNums=f8fafc&background=081c15)
 
 ## Operating Principles
 
@@ -137,23 +82,11 @@ Automation > repeated manual work
 <!--
 ## Spotify Corner
 
-### Now Playing
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=f59e0b&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-### Recently Played
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=3&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-### Top Tracks
 ![Spotify metrics](https://raw.githubusercontent.com/phumin89/phumin89/main/metrics.plugin.music.recent.svg)
 -->
 
-<div align="center">
-  <sub>Open to product engineering, internal tools, and automation-heavy builds.</sub>
-</div>
+Open to product engineering, internal tools, and automation-heavy builds.
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:081c15,32:0b132b,70:124559,100:f59e0b"
-    alt="Footer"
-  />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:081c15,32:0b132b,70:124559,100:f59e0b)
