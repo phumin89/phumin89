@@ -1,65 +1,60 @@
-<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">mi.nie developer identity card</title>
-  <desc id="desc">A colorful developer-style identity card for the GitHub profile of mi.nie.</desc>
+<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">mi.nie monochrome business card layout</title>
+  <desc id="desc">A monochrome two-card layout study for the GitHub profile of mi.nie.</desc>
   <defs>
-    <linearGradient id="top-band" x1="20" y1="20" x2="1260" y2="20" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E63946"/>
-      <stop offset="0.45" stop-color="#A8DADC"/>
-      <stop offset="1" stop-color="#457B9D"/>
-    </linearGradient>
-    <filter id="glow-cyan" x="760" y="20" width="430" height="260" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="38"/>
-    </filter>
-    <filter id="glow-red" x="900" y="90" width="260" height="180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="34"/>
+    <filter id="shadow" x="0" y="0" width="1280" height="380" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.16"/>
     </filter>
   </defs>
 
-  <rect x="20" y="20" width="1240" height="260" rx="24" fill="#0F172A"/>
-  <rect x="20" y="20" width="1240" height="260" rx="24" stroke="#25324A" stroke-width="2"/>
-  <rect x="20" y="20" width="1240" height="8" rx="4" fill="url(#top-band)"/>
-
-  <g filter="url(#glow-cyan)" opacity="0.34">
-    <ellipse cx="974" cy="128" rx="138" ry="76" fill="#A8DADC"/>
-  </g>
-  <g filter="url(#glow-red)" opacity="0.28">
-    <ellipse cx="1032" cy="188" rx="76" ry="42" fill="#E63946"/>
+  <g filter="url(#shadow)">
+    <rect x="28" y="26" width="1224" height="126" rx="18" fill="#FAFAF8"/>
+    <rect x="28" y="204" width="1224" height="148" rx="18" fill="#FAFAF8"/>
   </g>
 
-  <rect x="70" y="74" width="96" height="96" rx="16" fill="#111B31" stroke="#34445E" stroke-width="2"/>
-  <text x="90" y="133" fill="#F1FAEE" font-size="34" font-weight="700" font-family="Consolas, 'Courier New', monospace">&lt;/&gt;</text>
+  <rect x="28" y="170" width="1224" height="18" rx="9" fill="#CECECB"/>
 
-  <text x="200" y="112" fill="#F1FAEE" font-size="64" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-2">
+  <rect x="92" y="48" width="98" height="98" rx="6" stroke="#121212" stroke-width="3"/>
+  <path d="M116 125L167 67" stroke="#121212" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="118" y="96" fill="#121212" font-size="32" font-weight="700" font-family="Segoe UI, Arial, sans-serif">m</text>
+  <text x="148" y="129" fill="#121212" font-size="32" font-weight="700" font-family="Segoe UI, Arial, sans-serif">n</text>
+
+  <text x="236" y="90" fill="#121212" font-size="60" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
     mi.nie
   </text>
-  <text x="202" y="147" fill="#A8DADC" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace" letter-spacing="1.5">
+  <text x="238" y="118" fill="#4F4F4F" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">
     FULL-STACK DEVELOPER
   </text>
-  <text x="202" y="184" fill="#F1FAEE" fill-opacity="0.84" font-size="22" font-weight="500" font-family="Segoe UI, Arial, sans-serif">
-    builds dashboard systems, backend flows, and dev tools
+  <text x="238" y="144" fill="#6D6D6A" font-size="18" font-weight="500" font-family="Segoe UI, Arial, sans-serif">
+    product workflows / dashboard systems / dev tools
   </text>
 
-  <rect x="202" y="208" width="132" height="28" rx="14" fill="#1D3557"/>
-  <rect x="344" y="208" width="132" height="28" rx="14" fill="#457B9D"/>
-  <rect x="486" y="208" width="124" height="28" rx="14" fill="#E63946"/>
-  <text x="225" y="227" fill="#F1FAEE" font-size="13" font-weight="700" font-family="Consolas, 'Courier New', monospace">typescript</text>
-  <text x="378" y="227" fill="#F1FAEE" font-size="13" font-weight="700" font-family="Consolas, 'Courier New', monospace">react + fastify</text>
-  <text x="523" y="227" fill="#F1FAEE" font-size="13" font-weight="700" font-family="Consolas, 'Courier New', monospace">automation</text>
+  <text x="104" y="270" fill="#121212" font-size="56" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1">
+    MI.NIE
+  </text>
+  <text x="106" y="302" fill="#4F4F4F" font-size="22" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.8">
+    BUILDING USEFUL SOFTWARE
+  </text>
 
-  <text x="792" y="96" fill="#E63946" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">&gt;</text>
-  <text x="818" y="96" fill="#F1FAEE" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">stack</text>
-  <text x="898" y="96" fill="#A8DADC" font-size="18" font-weight="500" font-family="Consolas, 'Courier New', monospace">ts / react / fastify / prisma</text>
+  <rect x="468" y="238" width="2" height="74" rx="1" fill="#C8C8C5"/>
 
-  <text x="792" y="136" fill="#457B9D" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">&gt;</text>
-  <text x="818" y="136" fill="#F1FAEE" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">ships</text>
-  <text x="898" y="136" fill="#F1FAEE" fill-opacity="0.9" font-size="18" font-weight="500" font-family="Consolas, 'Courier New', monospace">pocketledger / render3d-tools</text>
+  <circle cx="532" cy="248" r="6" fill="#151515"/>
+  <text x="552" y="254" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    dashboard-first products
+  </text>
 
-  <text x="792" y="176" fill="#A8DADC" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">&gt;</text>
-  <text x="818" y="176" fill="#F1FAEE" font-size="18" font-weight="700" font-family="Consolas, 'Courier New', monospace">likes</text>
-  <text x="898" y="176" fill="#F1FAEE" fill-opacity="0.82" font-size="18" font-weight="500" font-family="Consolas, 'Courier New', monospace">code / cats / side quests</text>
+  <circle cx="532" cy="281" r="6" fill="#565656"/>
+  <text x="552" y="287" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    readable backend flows
+  </text>
 
-  <rect x="792" y="214" width="358" height="2" rx="1" fill="#25324A"/>
-  <rect x="792" y="214" width="118" height="2" rx="1" fill="#E63946"/>
-  <rect x="928" y="214" width="112" height="2" rx="1" fill="#A8DADC"/>
-  <rect x="1060" y="214" width="90" height="2" rx="1" fill="#457B9D"/>
+  <circle cx="532" cy="314" r="6" fill="#9C9C98"/>
+  <text x="552" y="320" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    automation that removes repetition
+  </text>
+
+  <circle cx="88" cy="332" r="7" fill="#151515"/>
+  <text x="108" y="338" fill="#4F4F4F" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    code, cats, and unfinished side projects
+  </text>
 </svg>
