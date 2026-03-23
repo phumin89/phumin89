@@ -1,60 +1,52 @@
-<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">mi.nie monochrome business card layout</title>
-  <desc id="desc">A monochrome two-card layout study for the GitHub profile of mi.nie.</desc>
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">mi.nie two-card identity layout</title>
+  <desc id="desc">A monochrome two-card identity layout for the GitHub profile of mi.nie.</desc>
   <defs>
-    <filter id="shadow" x="0" y="0" width="1280" height="380" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.16"/>
+    <filter id="shadow" x="0" y="0" width="1280" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.14"/>
     </filter>
   </defs>
 
   <g filter="url(#shadow)">
-    <rect x="28" y="26" width="1224" height="126" rx="18" fill="#FAFAF8"/>
-    <rect x="28" y="204" width="1224" height="148" rx="18" fill="#FAFAF8"/>
+    <rect x="182" y="34" width="916" height="142" rx="6" fill="#FAFAF8"/>
+    <rect x="182" y="230" width="916" height="156" rx="6" fill="#FAFAF8"/>
   </g>
 
-  <rect x="28" y="170" width="1224" height="18" rx="9" fill="#CECECB"/>
+  <rect x="430" y="72" width="86" height="86" rx="4" stroke="#121212" stroke-width="3"/>
+  <path d="M453 142L495 89" stroke="#121212" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="454" y="118" fill="#121212" font-size="30" font-weight="700" font-family="Segoe UI, Arial, sans-serif">m</text>
+  <text x="479" y="147" fill="#121212" font-size="30" font-weight="700" font-family="Segoe UI, Arial, sans-serif">n</text>
 
-  <rect x="92" y="48" width="98" height="98" rx="6" stroke="#121212" stroke-width="3"/>
-  <path d="M116 125L167 67" stroke="#121212" stroke-width="3.5" stroke-linecap="round"/>
-  <text x="118" y="96" fill="#121212" font-size="32" font-weight="700" font-family="Segoe UI, Arial, sans-serif">m</text>
-  <text x="148" y="129" fill="#121212" font-size="32" font-weight="700" font-family="Segoe UI, Arial, sans-serif">n</text>
-
-  <text x="236" y="90" fill="#121212" font-size="60" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
+  <text x="544" y="128" fill="#121212" font-size="60" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
     mi.nie
   </text>
-  <text x="238" y="118" fill="#4F4F4F" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">
-    FULL-STACK DEVELOPER
-  </text>
-  <text x="238" y="144" fill="#6D6D6A" font-size="18" font-weight="500" font-family="Segoe UI, Arial, sans-serif">
-    product workflows / dashboard systems / dev tools
-  </text>
 
-  <text x="104" y="270" fill="#121212" font-size="56" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1">
+  <text x="258" y="304" fill="#121212" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1">
     MI.NIE
   </text>
-  <text x="106" y="302" fill="#4F4F4F" font-size="22" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.8">
-    BUILDING USEFUL SOFTWARE
+  <text x="260" y="336" fill="#4F4F4F" font-size="22" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.6">
+    FULL-STACK DEVELOPER
   </text>
 
-  <rect x="468" y="238" width="2" height="74" rx="1" fill="#C8C8C5"/>
+  <rect x="574" y="274" width="1" height="72" fill="#C8C8C5"/>
 
-  <circle cx="532" cy="248" r="6" fill="#151515"/>
-  <text x="552" y="254" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+  <circle cx="630" cy="274" r="5" fill="#151515"/>
+  <text x="650" y="280" fill="#121212" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
     dashboard-first products
   </text>
 
-  <circle cx="532" cy="281" r="6" fill="#565656"/>
-  <text x="552" y="287" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+  <circle cx="630" cy="306" r="5" fill="#565656"/>
+  <text x="650" y="312" fill="#121212" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
     readable backend flows
   </text>
 
-  <circle cx="532" cy="314" r="6" fill="#9C9C98"/>
-  <text x="552" y="320" fill="#121212" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+  <circle cx="630" cy="338" r="5" fill="#9C9C98"/>
+  <text x="650" y="344" fill="#121212" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
     automation that removes repetition
   </text>
 
-  <circle cx="88" cy="332" r="7" fill="#151515"/>
-  <text x="108" y="338" fill="#4F4F4F" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
-    code, cats, and unfinished side projects
+  <circle cx="258" cy="362" r="6" fill="#151515"/>
+  <text x="278" y="368" fill="#4F4F4F" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    chiang mai, thailand
   </text>
 </svg>
