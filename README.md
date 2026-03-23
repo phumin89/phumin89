@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="mi.nie card" width="100%" />
 </p>
 
-<p align="center">
+<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Fastify" src="https://img.shields.io/badge/Fastify-111111?style=flat-square&logo=fastify&logoColor=white" />
