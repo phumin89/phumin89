@@ -11,5 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/spotify.svg" alt="Spotify Playing" width="100%" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317a7ngp3b6xrntppr7u24soa3dq&redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=317a7ngp3b6xrntppr7u24soa3dq&cover_image=true&theme=spotify-embed&show_offline=false&mode=dark"
+      alt="Spotify Playing"
+      width="100%"
+    />
+  </a>
 </p>
