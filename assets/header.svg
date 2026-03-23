@@ -11,7 +11,7 @@
     <rect x="34" y="28" width="1132" height="464" rx="4" fill="#FBFBF9"/>
   </g>
 
-  <g>
+  <g transform="translate(30 8)">
     <rect x="432" y="199" width="84" height="84" rx="3" stroke="#151515" stroke-width="3"/>
     <path d="M454 267L494 217" stroke="#151515" stroke-width="3.5" stroke-linecap="round"/>
     <text x="462" y="229" fill="#151515" font-size="31" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">m</text>
