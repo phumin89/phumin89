@@ -1,3 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=240&color=0:1B0A4B,28:364F6B,54:3FC1C9,80:F5F5F5,100:FC5185&text=mi.nie&fontColor=F5F5F5&fontSize=50&animation=twinkling&fontAlign=24&fontAlignY=42&desc=%40phumin89&descSize=18&descAlign=24&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=230&color=0:1D3557,34:457B9D,67:A8DADC,86:F1FAEE,100:E63946&text=mi.nie&fontColor=F1FAEE&fontSize=52&animation=fadeIn&fontAlign=18&fontAlignY=45)
 
-`@phumin89`
+*code, cats, and unfinished side quests.*
