@@ -1,0 +1,77 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">mi.nie business card style profile header</title>
+  <desc id="desc">A colorful business-card inspired profile graphic for mi.nie.</desc>
+  <defs>
+    <filter id="card-shadow" x="0" y="0" width="1280" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#020617" flood-opacity="0.18"/>
+    </filter>
+    <linearGradient id="band" x1="156" y1="0" x2="1124" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D3557"/>
+      <stop offset="0.52" stop-color="#457B9D"/>
+      <stop offset="1" stop-color="#A8DADC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="950" y1="76" x2="1072" y2="164" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A8DADC"/>
+      <stop offset="1" stop-color="#E63946"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="156" y="182" width="968" height="26" rx="13" fill="url(#band)" opacity="0.92"/>
+
+  <g filter="url(#card-shadow)">
+    <rect x="188" y="28" width="904" height="144" rx="22" fill="#F1FAEE"/>
+    <rect x="156" y="222" width="968" height="158" rx="22" fill="#F1FAEE"/>
+  </g>
+
+  <g>
+    <rect x="246" y="64" width="84" height="84" rx="8" stroke="#1D3557" stroke-width="3"/>
+    <path d="M267 130L309 82" stroke="#1D3557" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="266" y="103" fill="#1D3557" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">m</text>
+    <text x="295" y="134" fill="#1D3557" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">n</text>
+  </g>
+
+  <text x="366" y="102" fill="#1D3557" font-size="58" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
+    mi.nie
+  </text>
+  <text x="368" y="132" fill="#457B9D" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">
+    FULL-STACK DEVELOPER
+  </text>
+  <text x="368" y="156" fill="#1D3557" fill-opacity="0.78" font-size="18" font-weight="500" font-family="Segoe UI, Arial, sans-serif">
+    product workflows / dashboard systems / dev tools
+  </text>
+
+  <circle cx="988" cy="90" r="44" fill="#A8DADC"/>
+  <rect x="1028" y="60" width="26" height="88" rx="13" fill="#1D3557"/>
+  <rect x="946" y="130" width="126" height="16" rx="8" fill="#E63946"/>
+  <circle cx="944" cy="60" r="8" fill="#E63946"/>
+  <circle cx="964" cy="60" r="8" fill="#457B9D"/>
+  <circle cx="984" cy="60" r="8" fill="#A8DADC"/>
+
+  <text x="230" y="296" fill="#1D3557" font-size="46" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
+    MI.NIE
+  </text>
+  <text x="232" y="326" fill="#457B9D" font-size="19" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.8">
+    BUILDING USEFUL SOFTWARE
+  </text>
+
+  <rect x="520" y="266" width="2" height="74" rx="1" fill="#1D3557" fill-opacity="0.22"/>
+
+  <circle cx="566" cy="278" r="7" fill="#E63946"/>
+  <text x="586" y="284" fill="#1D3557" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    dashboard-first products
+  </text>
+
+  <circle cx="566" cy="309" r="7" fill="#457B9D"/>
+  <text x="586" y="315" fill="#1D3557" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    readable backend flows
+  </text>
+
+  <circle cx="566" cy="340" r="7" fill="#A8DADC"/>
+  <text x="586" y="346" fill="#1D3557" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    automation that removes repetition
+  </text>
+
+  <rect x="902" y="300" width="154" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="902" y="328" width="102" height="10" rx="5" fill="#1D3557" fill-opacity="0.14"/>
+  <rect x="1008" y="328" width="48" height="10" rx="5" fill="#457B9D"/>
+</svg>
