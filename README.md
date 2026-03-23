@@ -1,27 +1,35 @@
-## Hi, I'm mi.nie 👋
+## hi, i'm mi.nie 👋
 
-Full-stack developer based in Chiang Mai, Thailand.
+`full-stack developer` `chiang mai, thailand`
 
-I like building product workflows, dashboard-first interfaces, and tools that remove repetitive work.
+i build dashboard-first products, readable backend flows, and tools that cut repetitive work.
 
----
+```txt
+> whoami
+mi.nie
 
-### Currently building
+> focus
+product workflows / internal tools / automation
 
-- [PocketLedger](https://github.com/phumin89/PocketLedger) - a CQRS-ready personal finance monorepo with React, Fastify, Prisma, and PostgreSQL
-- [Render3d-tools](https://github.com/phumin89/Render3d-tools) - XML-driven automation for queuing 3D renders and downloading final assets
+> stack
+typescript / react / fastify / prisma / postgresql / c# / .net
 
----
+> side_quests
+code, cats, unfinished things
+```
 
-### Language and Tools
+### currently shipping
+
+[![PocketLedger](https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=PocketLedger&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117)](https://github.com/phumin89/PocketLedger)
+[![Render3d-tools](https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=Render3d-tools&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117)](https://github.com/phumin89/Render3d-tools)
+
+### language and tools
 
 ![Tech stack](https://skillicons.dev/icons?i=ts,react,vite,nodejs,fastify,postgres,prisma,docker,cs,dotnet,python,git)
 
----
-
-### A few things I care about
+### what i care about
 
 - readable systems
 - practical defaults
 - less manual work
-- code, cats, and unfinished side quests
+- shipping useful things
