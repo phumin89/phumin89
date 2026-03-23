@@ -1,23 +1,23 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">mi.nie business card</title>
   <desc id="desc">A single business-card style panel for mi.nie.</desc>
   <defs>
-    <filter id="shadow" x="0" y="0" width="1200" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="shadow" x="0" y="0" width="1200" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.14"/>
     </filter>
   </defs>
 
   <g filter="url(#shadow)">
-    <rect x="34" y="28" width="1132" height="464" rx="4" fill="#FBFBF9"/>
+    <rect x="34" y="28" width="1132" height="384" rx="4" fill="#FBFBF9"/>
   </g>
 
-  <g transform="translate(30 8)">
-    <rect x="432" y="199" width="84" height="84" rx="3" stroke="#151515" stroke-width="3"/>
-    <path d="M454 267L494 217" stroke="#151515" stroke-width="3.5" stroke-linecap="round"/>
-    <text x="462" y="229" fill="#151515" font-size="31" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">m</text>
-    <text x="487" y="255" fill="#151515" font-size="31" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">n</text>
+  <g>
+    <rect x="420" y="170" width="96" height="96" rx="3" stroke="#151515" stroke-width="3"/>
+    <path d="M444 252L492 194" stroke="#151515" stroke-width="4" stroke-linecap="round"/>
+    <text x="458" y="205" fill="#151515" font-size="35" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">m</text>
+    <text x="482" y="234" fill="#151515" font-size="35" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">n</text>
 
-    <text x="530" y="261" fill="#151515" font-size="68" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.5">
+    <text x="540" y="241" fill="#151515" font-size="82" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.8">
       mi.nie
     </text>
   </g>
