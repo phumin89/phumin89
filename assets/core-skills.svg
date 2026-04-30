@@ -1,0 +1,125 @@
+<svg width="920" height="172" viewBox="0 0 920 172" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Core skills</title>
+  <desc id="desc">Frontend, backend, database, and data store skills.</desc>
+
+  <style>
+    .section {
+      font: 700 12px "Segoe UI", Arial, sans-serif;
+      letter-spacing: 0;
+    }
+
+    .label {
+      font: 600 13px "Segoe UI", Arial, sans-serif;
+      letter-spacing: 0;
+    }
+  </style>
+
+  <text class="section" x="0" y="22" fill="#8B949E">frontend</text>
+
+  <g transform="translate(86 0)">
+    <rect width="106" height="32" rx="6" fill="#0D1117" stroke="#F87171" stroke-opacity="0.55"/>
+    <path d="M18 7L30 12V23L18 30L6 23V12L18 7Z" fill="#EF4444"/>
+    <text class="label" x="42" y="21" fill="#FCA5A5">angular</text>
+  </g>
+
+  <g transform="translate(206 0)">
+    <rect width="126" height="32" rx="6" fill="#0D1117" stroke="#A5B4FC" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#C4B5FD" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="700">RP</text>
+    <text class="label" x="42" y="21" fill="#C4B5FD">razor pages</text>
+  </g>
+
+  <g transform="translate(346 0)">
+    <rect width="132" height="32" rx="6" fill="#0D1117" stroke="#2F8FED" stroke-opacity="0.55"/>
+    <rect x="10" y="8" width="16" height="16" rx="3" fill="#2F8FED"/>
+    <text x="14" y="20.5" fill="#EAF4FF" font-size="9" font-family="Segoe UI, Arial, sans-serif" font-weight="700">TS</text>
+    <text class="label" x="34" y="21" fill="#79C0FF">typescript</text>
+  </g>
+
+  <g transform="translate(492 0)">
+    <rect width="118" height="32" rx="6" fill="#0D1117" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#FBBF24" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">JS</text>
+    <text class="label" x="40" y="21" fill="#FBBF24">javascript</text>
+  </g>
+
+  <g transform="translate(624 0)">
+    <rect width="82" height="32" rx="6" fill="#0D1117" stroke="#FB923C" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#FDBA74" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">5</text>
+    <text class="label" x="34" y="21" fill="#FDBA74">html</text>
+  </g>
+
+  <g transform="translate(720 0)">
+    <rect width="110" height="32" rx="6" fill="#0D1117" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#7DD3FC" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">#</text>
+    <text class="label" x="34" y="21" fill="#7DD3FC">css/scss</text>
+  </g>
+
+  <text class="section" x="0" y="82" fill="#8B949E">backend</text>
+
+  <g transform="translate(86 60)">
+    <rect width="132" height="32" rx="6" fill="#0D1117" stroke="#A5B4FC" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#C4B5FD" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">.NET</text>
+    <text class="label" x="54" y="21" fill="#C4B5FD">asp.net core</text>
+  </g>
+
+  <g transform="translate(232 60)">
+    <rect width="126" height="32" rx="6" fill="#0D1117" stroke="#86EFAC" stroke-opacity="0.55"/>
+    <path d="M14 21C16 10 27 8 34 10C31 18 25 25 14 21Z" fill="#4ADE80"/>
+    <text class="label" x="42" y="21" fill="#86EFAC">spring boot</text>
+  </g>
+
+  <g transform="translate(372 60)">
+    <rect width="102" height="32" rx="6" fill="#0D1117" stroke="#86EFAC" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#86EFAC" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">node</text>
+    <text class="label" x="48" y="21" fill="#86EFAC">node.js</text>
+  </g>
+
+  <g transform="translate(488 60)">
+    <rect width="112" height="32" rx="6" fill="#0D1117" stroke="#8B949E" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">{ }</text>
+    <text class="label" x="44" y="21" fill="#E6EDF3">rest api</text>
+  </g>
+
+  <g transform="translate(614 60)">
+    <rect width="106" height="32" rx="6" fill="#0D1117" stroke="#8B949E" stroke-opacity="0.55"/>
+    <path d="M16 22L25 10L22 18H30L21 30L24 22H16Z" fill="#E6EDF3"/>
+    <text class="label" x="42" y="21" fill="#E6EDF3">fastify</text>
+  </g>
+
+  <g transform="translate(734 60)">
+    <rect width="102" height="32" rx="6" fill="#0D1117" stroke="#A5B4FC" stroke-opacity="0.55"/>
+    <path d="M20 7L32 25L17 30L12 20L20 7Z" fill="#A5B4FC"/>
+    <path d="M20 13L26 24L18 26L16 20L20 13Z" fill="#0D1117" opacity="0.9"/>
+    <text class="label" x="42" y="21" fill="#C4B5FD">prisma</text>
+  </g>
+
+  <text class="section" x="0" y="142" fill="#8B949E">data</text>
+
+  <g transform="translate(86 120)">
+    <rect width="128" height="32" rx="6" fill="#0D1117" stroke="#7DD3FC" stroke-opacity="0.55"/>
+    <g transform="translate(12 7)" fill="#7DD3FC">
+      <path d="M6 7C6 3.5 9 1 13 1C18 1 22 5 22 11C22 16 18.5 20 13 20H9C6.5 20 4.5 18 4.5 15.5V9.5C4.5 8.4 5 7.5 6 7Z"/>
+      <path d="M18 11C21 10.5 24 12 25 14.5C22.5 14 20.5 14.6 18.5 16L18 11Z"/>
+      <circle cx="13" cy="9.5" r="1.4" fill="#0D1117"/>
+      <path d="M9.5 15H19" stroke="#0D1117" stroke-width="1.4" stroke-linecap="round"/>
+    </g>
+    <text class="label" x="42" y="21" fill="#7DD3FC">postgres</text>
+  </g>
+
+  <g transform="translate(228 120)">
+    <rect width="122" height="32" rx="6" fill="#0D1117" stroke="#7DD3FC" stroke-opacity="0.55"/>
+    <text x="12" y="21" fill="#7DD3FC" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="700">SQL</text>
+    <text class="label" x="45" y="21" fill="#7DD3FC">server</text>
+  </g>
+
+  <g transform="translate(364 120)">
+    <rect width="116" height="32" rx="6" fill="#0D1117" stroke="#86EFAC" stroke-opacity="0.55"/>
+    <path d="M20 7C12 14 13 24 21 29C27 22 28 13 20 7Z" fill="#4ADE80"/>
+    <text class="label" x="42" y="21" fill="#86EFAC">mongodb</text>
+  </g>
+
+  <g transform="translate(494 120)">
+    <rect width="112" height="32" rx="6" fill="#0D1117" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <path d="M17 7L28 21L23 30L11 30L17 7Z" fill="#F59E0B"/>
+    <text class="label" x="42" y="21" fill="#FBBF24">firebase</text>
+  </g>
+</svg>

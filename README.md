@@ -4,9 +4,7 @@
 
 ##### / core skill
 
-**Frontend:** Angular, Razor Pages, TypeScript/JavaScript, HTML, CSS/SCSS  
-**Backend:** ASP.NET Core, Spring Boot, Node.js, RESTful APIs  
-**Databases & Data Stores:** PostgreSQL, SQL Server, MongoDB, Firebase
+<img src="./assets/core-skills.svg" alt="Core skills: frontend, backend, databases and data stores" width="78%" />
 
 ##### / listening
 
