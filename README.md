@@ -2,9 +2,11 @@
   <img src="./assets/header.svg" alt="mi.nie card" width="100%" />
 </p>
 
-##### / stack
+##### / core skill
 
-<img src="./assets/skills.svg" alt="TypeScript, React, Fastify, Prisma, PostgreSQL" width="54%" />
+**Frontend:** Angular, Razor Pages, TypeScript/JavaScript, HTML, CSS/SCSS  
+**Backend:** ASP.NET Core, Spring Boot, Node.js, RESTful APIs  
+**Databases & Data Stores:** PostgreSQL, SQL Server, MongoDB, Firebase
 
 ##### / listening
 
