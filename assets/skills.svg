@@ -1,0 +1,48 @@
+<svg width="760" height="64" viewBox="0 0 760 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Skill icons</title>
+  <desc id="desc">Skill pills for TypeScript, React, Fastify, Prisma, and PostgreSQL.</desc>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <g transform="translate(0 10)">
+      <rect width="166" height="44" rx="5" fill="#DFECFF"/>
+      <rect x="10" y="10" width="24" height="24" rx="4" fill="#2F8FED"/>
+      <text x="16" y="29" fill="#EAF4FF" font-size="14" letter-spacing="0">TS</text>
+      <text x="43" y="28" fill="#2F8FED">TYPESCRIPT</text>
+    </g>
+
+    <g transform="translate(180 10)">
+      <rect width="126" height="44" rx="5" fill="#DFFDFF"/>
+      <g transform="translate(13 12)" stroke="#00A9B7" stroke-width="1.8">
+        <ellipse cx="12" cy="10" rx="18" ry="6"/>
+        <ellipse cx="12" cy="10" rx="18" ry="6" transform="rotate(60 12 10)"/>
+        <ellipse cx="12" cy="10" rx="18" ry="6" transform="rotate(120 12 10)"/>
+        <circle cx="12" cy="10" r="3" fill="#00A9B7" stroke="none"/>
+      </g>
+      <text x="50" y="28" fill="#00A9B7">REACT</text>
+    </g>
+
+    <g transform="translate(320 10)">
+      <rect width="132" height="44" rx="5" fill="#EFEFEF"/>
+      <path d="M18 29L31 14L27 25H38L25 40L29 29H18Z" fill="#111111"/>
+      <text x="52" y="28" fill="#242424">FASTIFY</text>
+    </g>
+
+    <g transform="translate(466 10)">
+      <rect width="124" height="44" rx="5" fill="#E8E4FF"/>
+      <path d="M23 9L39 35L20 42L13 29L23 9Z" fill="#4C4F70"/>
+      <path d="M24 17L32 32L22 36L19 29L24 17Z" fill="#FFFFFF" opacity="0.85"/>
+      <text x="52" y="28" fill="#4C4F70">PRISMA</text>
+    </g>
+
+    <g transform="translate(604 10)">
+      <rect width="156" height="44" rx="5" fill="#DFF9FF"/>
+      <g transform="translate(12 10)" fill="#4A9BC2">
+        <path d="M9 9C9 4 13 1 19 1C27 1 33 7 33 16C33 24 28 30 20 30H14C10 30 7 27 7 23V13C7 11 8 10 9 9Z"/>
+        <path d="M25 16C30 15 35 17 37 21C33 20 30 21 27 23L25 16Z"/>
+        <circle cx="19" cy="13" r="2.4" fill="#DFF9FF"/>
+        <path d="M14 23H28" stroke="#DFF9FF" stroke-width="2" stroke-linecap="round"/>
+      </g>
+      <text x="52" y="28" fill="#4A9BC2">POSTGRE</text>
+    </g>
+  </g>
+</svg>

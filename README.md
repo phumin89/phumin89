@@ -4,7 +4,7 @@
 
 ##### / stack
 
-`typescript` · `react` · `fastify` · `prisma` · `postgresql`
+<img src="./assets/skills.svg" alt="TypeScript, React, Fastify, Prisma, PostgreSQL" width="62%" />
 
 ##### / listening
 
