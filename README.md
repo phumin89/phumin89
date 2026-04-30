@@ -4,7 +4,7 @@
 
 ##### / stack
 
-<img src="./assets/skills.svg" alt="TypeScript, React, Fastify, Prisma, PostgreSQL" width="62%" />
+<img src="./assets/skills.svg" alt="TypeScript, React, Fastify, Prisma, PostgreSQL" width="54%" />
 
 ##### / listening
 
