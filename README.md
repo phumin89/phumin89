@@ -24,25 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
 
-### Selected Work
-
-<p>
-  <a href="https://github.com/phumin89/PocketLedger">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=PocketLedger&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
-      alt="PocketLedger"
-      width="48%"
-    />
-  </a>
-  <a href="https://github.com/phumin89/Render3d-tools">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=Render3d-tools&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
-      alt="Render3D Tools"
-      width="48%"
-    />
-  </a>
-</p>
-
 ### Listening
 
 <p>
