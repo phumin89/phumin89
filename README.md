@@ -26,8 +26,22 @@
 
 ### Selected Work
 
-- [PocketLedger](https://github.com/phumin89/PocketLedger) personal finance dashboard monorepo.
-- [Render3D Tools](https://github.com/phumin89/Render3d-tools) automation helpers for 3D and render workflows.
+<p>
+  <a href="https://github.com/phumin89/PocketLedger">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=PocketLedger&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+      alt="PocketLedger"
+      width="48%"
+    />
+  </a>
+  <a href="https://github.com/phumin89/Render3d-tools">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=phumin89&repo=Render3d-tools&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+      alt="Render3D Tools"
+      width="48%"
+    />
+  </a>
+</p>
 
 ### Listening
 
